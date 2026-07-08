@@ -118,7 +118,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "This is a person who likes to write something **fun** in code."
   location         : "China, Shanghai"
-  email            : "chenly2007@outlook.com"
+  email            : 
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
